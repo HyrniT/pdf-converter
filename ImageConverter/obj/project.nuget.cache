@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "iTe5AWH4H1y6yEoptMo9LsLX/cCTYIMShdr8YpRtCqyzSRjWspqrX+AzK4HIO8h1vqSa20NMN335apTTlGKVew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ngqgh\\OneDrive\\Desktop\\ImageConverter\\ImageConverter\\ImageConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ngqgh\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\syncfusion.compression.base\\20.4.0.49\\syncfusion.compression.base.20.4.0.49.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\syncfusion.docio.wpf\\20.4.0.49\\syncfusion.docio.wpf.20.4.0.49.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\syncfusion.doctopdfconverter.wpf\\20.4.0.49\\syncfusion.doctopdfconverter.wpf.20.4.0.49.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\syncfusion.licensing\\20.4.0.49\\syncfusion.licensing.20.4.0.49.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\syncfusion.officechart.base\\20.4.0.49\\syncfusion.officechart.base.20.4.0.49.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\syncfusion.pdf.wpf\\20.4.0.49\\syncfusion.pdf.wpf.20.4.0.49.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\20.4.0.49\\syncfusion.sfskinmanager.wpf.20.4.0.49.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\syncfusion.shared.wpf\\20.4.0.49\\syncfusion.shared.wpf.20.4.0.49.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\syncfusion.themes.fluentlight.wpf\\20.4.0.49\\syncfusion.themes.fluentlight.wpf.20.4.0.49.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\ngqgh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
